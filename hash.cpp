@@ -37,6 +37,9 @@ int main(int argc, char *argv[])
     int division_of_cam = std::atoi(argv[2]);
     int range_of_CAM = std::atoi(argv[3]);
 
+    int false_positive_rate = 0;
+    int false_negative_rate = 0; //if it says its not there but it is actually there
+
     std::cout << "Value of CAM size is:" << CAM_SIZE << endl;
     std::cout << "Number of sub banks are:" << division_of_cam << endl;
     std::cout << "Value of range of CAM is:" << range_of_CAM << endl;
@@ -89,7 +92,7 @@ int main(int argc, char *argv[])
     {
 
         MurmurHash3_x86_32(&arr[i], sizeof(arr[i]), seed, &hash_output_arr[i]);
-        cout << "hash_output_arr is:" << std::hex << hash_output_arr[i] << endl;
+       // cout << "hash_output_arr is:" << std::hex << hash_output_arr[i] << endl;
     }
 
     // Now i need to perform a bit wise or of the hash_output_arr depending on the division and store it in the bloom filter
@@ -115,17 +118,20 @@ int main(int argc, char *argv[])
     // match'=H(D)'.BF
     // take bitwise complement of the search query
 
-    // test values
-    uint32_t search_query = 0x4000;
-    uint32_t bloom_filter_value = 0x18400;
+    // // test values
+    // uint32_t search_query = 0x4000;
+    // uint32_t bloom_filter_value = 0x18400;
 
-    matching_bloom_filter(search_query, bloom_filter_value);
+    // matching_bloom_filter(search_query, bloom_filter_value);
 
     // now test the bloom filter on CAMS
-    print_array(arr, size);
-    // now choose a random value between the index
+   // print_array(arr, size);
+
+    // Choose a random value between the index from the array itself
     int value_to_match = arr[rand() % size];
     cout << "Value to match is:" << value_to_match << endl;
+
+    //search this value in cam and return the index
     int index = linear_search(arr, size, value_to_match);
     cout << "\n Index of the value is:" << std::dec << index << endl;
     cout << "Value at index is:" << arr[index] << endl;
@@ -136,6 +142,8 @@ int main(int argc, char *argv[])
     {
         bank_number = index / number_of_elements_in_each_cam;
     }
+
+    //the bloom filter should return this bank number
     cout << "Bank number is:" << bank_number << endl;
 
     // now employ the bloom filter
@@ -151,12 +159,23 @@ int main(int argc, char *argv[])
         if (matching_bloom_filter(hash_output_value_to_match, bloom_filter[i]))
         {
             cout << "Match found in bank number:" << i << endl;
+            if(i!=bank_number) //if it does not match the answer implies positive rate
+            {
+                false_positive_rate++;
+            }
         }
         else
         {
             cout << "Match not found in bank number:" << i << endl;
+            if(i==bank_number)
+            {
+                false_negative_rate++;
+            }
         }
     }
+    
+    cout<<"\nThe false postive rate is "<<(false_positive_rate*100)/(division_of_cam)<<endl;
+    cout<<"The false negative rate is "<<(false_negative_rate*100)/(division_of_cam)<<endl;
     delete[] bloom_filter;
     return 0;
 }

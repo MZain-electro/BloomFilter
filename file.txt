@@ -1,94 +1,31 @@
-Value of CAM size is:64
+Value of CAM size is:32
 Number of sub banks are:8
 Value of range of CAM is:128
-97 106 124 93 56 60 5 13 10 14 57 25 82 80 126 23 67 104 16 118 87 121 36 42 1 122 111 26 50 112 116 54 11 88 117 35 27 34 86 91 8 75 99 115 62 70 53 79 61 81 39 37 22 95 44 98 33 18 9 92 84 114 20 66 
-hash_output_arr is:f606b502
-hash_output_arr is:75d9cc15
-hash_output_arr is:f35ba46
-hash_output_arr is:2e27d097
-hash_output_arr is:2417512e
-hash_output_arr is:f52127aa
-hash_output_arr is:2ba278bf
-hash_output_arr is:f3181e15
-hash_output_arr is:235f9a6f
-hash_output_arr is:3ec799a3
-hash_output_arr is:ba8093d0
-hash_output_arr is:52150372
-hash_output_arr is:16a65479
-hash_output_arr is:83400d61
-hash_output_arr is:b399e0b5
-hash_output_arr is:ccf61b3e
-hash_output_arr is:226c42c1
-hash_output_arr is:39679452
-hash_output_arr is:143e300a
-hash_output_arr is:d593b1a1
-hash_output_arr is:783e7664
-hash_output_arr is:fd53f1e2
-hash_output_arr is:6fbe10db
-hash_output_arr is:646e4f9a
-hash_output_arr is:fa016213
-hash_output_arr is:d1c7c681
-hash_output_arr is:8df89fb2
-hash_output_arr is:1d15807c
-hash_output_arr is:c0f89dd2
-hash_output_arr is:71470f1b
-hash_output_arr is:31bb1b2e
-hash_output_arr is:a411b34
-hash_output_arr is:9ccd2f3d
-hash_output_arr is:35abb03c
-hash_output_arr is:2f3b25d4
-hash_output_arr is:2015e70e
-hash_output_arr is:28dcddfa
-hash_output_arr is:c980a6c7
-hash_output_arr is:641d6331
-hash_output_arr is:bebaa411
-hash_output_arr is:631ff7b8
-hash_output_arr is:a930ace5
-hash_output_arr is:1c1c3e0e
-hash_output_arr is:8d343121
-hash_output_arr is:2df924e
-hash_output_arr is:e8c42fa3
-hash_output_arr is:bc4a7fb3
-hash_output_arr is:368193fd
-hash_output_arr is:d16b8d50
-hash_output_arr is:61c38a33
-hash_output_arr is:fced0304
-hash_output_arr is:60bb243f
-hash_output_arr is:930a2f19
-hash_output_arr is:f8e66a3f
-hash_output_arr is:b2d3c614
-hash_output_arr is:2f6f40e0
-hash_output_arr is:ffd2460f
-hash_output_arr is:63c99796
-hash_output_arr is:4cf73b68
-hash_output_arr is:5ba044e8
-hash_output_arr is:c72f74a3
-hash_output_arr is:e2000db0
-hash_output_arr is:eaeee8c3
-hash_output_arr is:9a11aa52
+11 24 20 37 111 97 82 27 17 7 62 96 50 54 102 21 31 77 60 29 69 12 115 48 121 118 104 67 22 14 87 108 
+bloom_filter is:ffff7ffe
+bloom_filter is:fffeffff
+bloom_filter is:fff7ff7a
+bloom_filter is:ffffffbf
+bloom_filter is:ffef6fff
 bloom_filter is:ffffffff
-bloom_filter is:ffffffff
-bloom_filter is:ffffffff
-bloom_filter is:ffffffff
-bloom_filter is:ffffffff
-bloom_filter is:ffffffff
-bloom_filter is:ffffefff
-bloom_filter is:ffffffff
-97 106 124 93 56 60 5 13 10 14 57 25 82 80 126 23 67 104 16 118 87 121 36 42 1 122 111 26 50 112 116 54 11 88 117 35 27 34 86 91 8 75 99 115 62 70 53 79 61 81 39 37 22 95 44 98 33 18 9 92 84 114 20 66 
-Value to match is:20
+bloom_filter is:fdffffff
+bloom_filter is:bfffffff
+Value to match is:16
 
-97 106 124 93 56 60 5 13 10 14 57 25 82 80 126 23 67 104 16 118 87 121 36 42 1 122 111 26 50 112 116 54 11 88 117 35 27 34 86 91 8 75 99 115 62 70 53 79 61 81 39 37 22 95 44 98 33 18 9 92 84 114 20 
- Index of the value is:62
-Value at index is:20
+11 24 20 37 111 97 82 27 17 7 62 96 50 54 102 21 31 77 60 29 69 12 115 48 121 118 104 67 22 
+ Index of the value is:28
+Value at index is:22
 Bank number is:7
-hash_output of integer is:3941525699
+hash_output of integer is:268612548
 
 
-Match found in bank number:0
+Match not found in bank number:0
 Match found in bank number:1
-Match found in bank number:2
-Match found in bank number:3
-Match found in bank number:4
+Match not found in bank number:2
+Match not found in bank number:3
+Match not found in bank number:4
 Match found in bank number:5
 Match found in bank number:6
 Match found in bank number:7
+The false postive rate is 37
+The false negative rate is 0
