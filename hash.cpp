@@ -15,7 +15,8 @@
 #include <fstream> // for std::ofstream
 using namespace std;
 
-#define number_of_iterations 32
+#define number_of_iterations 100
+#define number_of_hashes 2
 // #ifndef CAM_SIZE //if not defined used default values
 // #define CAM_SIZE 32
 // #endif
@@ -70,11 +71,16 @@ int main(int argc, char *argv[])
         false_negative_rate = 0;
         // define new bloom filters
         int *bloom_filter = new int[number_of_bloom_filters];
+        //intialize each bloom filter to 0
+        for (int i = 0; i < number_of_bloom_filters; i++)
+        {
+            bloom_filter[i] = 0;
+        }
 
         // define a new seed for the hashing
-        uint32_t seed = rand() % 42; /* Seed value for hash */
+        uint32_t seed = rand()%100; /* Seed value for hash */
 
-        uint32_t hash_output_arr[size]; // save the hash output in this array
+        uint32_t hash_output_arr[size*number_of_hashes]; // save the hash output in this array
 
         // Logic for random values
         int arr[size]; // Array to store random values

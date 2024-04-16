@@ -8,7 +8,7 @@ num_sub_cams=8
 # Of the form CAM SIZE, Number of Sub CAMS and Range of LNREGs
 # write a loop to run the executable for different values
 echo "Running the executable for different values"
-for i in 2 4 8 16
+for i in 2 4 8 16 32 64 128
 do  
     echo "Running for $i"
     ./build/RSCA_executable $cam_size $num_sub_cams $(($cam_size*$i)) >> file_$i.txt
