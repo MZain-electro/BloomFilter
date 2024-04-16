@@ -1,0 +1,963 @@
+Value of CAM size is:32
+Number of sub banks are:8
+Value of range of CAM is:128
+23 68 124 50 122 92 45 81 111 86 73 118 46 94 97 38 76 60 33 115 96 30 65 104 58 64 9 51 123 100 114 54 
+bloom_filter is:fffffff7
+bloom_filter is:ffef3dfb
+bloom_filter is:ffffffff
+bloom_filter is:fbff7eef
+bloom_filter is:ffffffff
+bloom_filter is:ffffffbf
+bloom_filter is:7fffffff
+bloom_filter is:bcffffff
+Value to match is:7b
+
+23 68 124 50 122 92 45 81 111 86 73 118 46 94 97 38 76 60 33 115 96 30 65 104 58 64 9 51 123 
+ Index of the value is:28
+Value at index is:123
+Bank number is:7
+hash_output of integer is:76938596
+
+
+Match found in bank number:0
+Match not found in bank number:1
+Match found in bank number:2
+Match not found in bank number:3
+Match found in bank number:4
+Match not found in bank number:5
+Match found in bank number:6
+Match found in bank number:7
+
+The false postive rate is 50
+The false negative rate is 0
+40 63 83 43 116 11 109 38 76 48 26 82 12 94 100 92 13 95 15 77 108 34 18 125 22 66 107 93 59 68 2 121 
+bloom_filter is:fffffdff
+bloom_filter is:ffff7ff7
+bloom_filter is:ffffdf7f
+bloom_filter is:7fffbfff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+Value to match is:12
+
+40 63 83 43 116 11 109 38 76 48 26 82 12 94 100 92 13 95 15 77 108 34 18 
+ Index of the value is:22
+Value at index is:18
+Bank number is:5
+hash_output of integer is:3154855995
+
+
+Match found in bank number:0
+Match not found in bank number:1
+Match found in bank number:2
+Match not found in bank number:3
+Match found in bank number:4
+Match found in bank number:5
+Match found in bank number:6
+Match found in bank number:7
+
+The false postive rate is 62
+The false negative rate is 0
+62 122 66 96 41 27 19 61 4 80 11 78 36 10 1 3 7 110 59 25 65 47 46 69 103 9 102 21 87 92 37 13 
+bloom_filter is:ffff7fff
+bloom_filter is:7ffff7ff
+bloom_filter is:fffffffe
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+Value to match is:d
+
+62 122 66 96 41 27 19 61 4 80 11 78 36 10 1 3 7 110 59 25 65 47 46 69 103 9 102 21 87 92 37 13 
+ Index of the value is:31
+Value at index is:13
+Bank number is:7
+hash_output of integer is:2321987432
+
+
+Match not found in bank number:0
+Match not found in bank number:1
+Match found in bank number:2
+Match found in bank number:3
+Match found in bank number:4
+Match found in bank number:5
+Match found in bank number:6
+Match found in bank number:7
+
+The false postive rate is 62
+The false negative rate is 0
+69 65 60 106 30 20 19 17 111 93 105 36 26 5 121 124 98 119 81 84 63 96 55 57 0 48 75 101 74 29 109 3 
+bloom_filter is:ffffdfff
+bloom_filter is:7ffdb7bf
+bloom_filter is:fdefffff
+bloom_filter is:ffffeffe
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+Value to match is:5d
+
+69 65 60 106 30 20 19 17 111 93 
+ Index of the value is:9
+Value at index is:93
+Bank number is:2
+hash_output of integer is:3045962083
+
+
+Match not found in bank number:0
+Match not found in bank number:1
+Match found in bank number:2
+Match not found in bank number:3
+Match found in bank number:4
+Match found in bank number:5
+Match found in bank number:6
+Match found in bank number:7
+
+The false postive rate is 50
+The false negative rate is 0
+112 47 77 94 15 121 101 10 124 116 4 80 31 16 41 38 28 86 103 26 66 91 99 81 2 114 39 97 0 117 84 78 
+bloom_filter is:fdffffff
+bloom_filter is:fdbfffff
+bloom_filter is:ffffffef
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+Value to match is:79
+
+112 47 77 94 15 121 
+ Index of the value is:5
+Value at index is:121
+Bank number is:1
+hash_output of integer is:1619674809
+
+
+Match found in bank number:0
+Match found in bank number:1
+Match not found in bank number:2
+Match found in bank number:3
+Match found in bank number:4
+Match found in bank number:5
+Match found in bank number:6
+Match found in bank number:7
+
+The false postive rate is 75
+The false negative rate is 0
+62 59 68 57 3 126 54 38 52 102 56 100 45 16 33 65 49 79 98 106 66 77 23 41 113 118 22 108 99 60 120 27 
+bloom_filter is:fffffffd
+bloom_filter is:fffffff7
+bloom_filter is:ffdfffff
+bloom_filter is:bfaffffd
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+Value to match is:34
+
+62 59 68 57 3 126 54 38 52 
+ Index of the value is:8
+Value at index is:52
+Bank number is:2
+hash_output of integer is:4005627977
+
+
+Match found in bank number:0
+Match not found in bank number:1
+Match found in bank number:2
+Match not found in bank number:3
+Match found in bank number:4
+Match found in bank number:5
+Match found in bank number:6
+Match found in bank number:7
+
+The false postive rate is 62
+The false negative rate is 0
+59 80 113 41 22 33 25 39 15 43 112 35 105 7 58 78 3 109 26 111 102 83 20 6 114 117 89 94 30 51 70 82 
+bloom_filter is:fffffdff
+bloom_filter is:feffffff
+bloom_filter is:fbfffcf5
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+Value to match is:33
+
+59 80 113 41 22 33 25 39 15 43 112 35 105 7 58 78 3 109 26 111 102 83 20 6 114 117 89 94 30 51 
+ Index of the value is:29
+Value at index is:51
+Bank number is:7
+hash_output of integer is:717617051
+
+
+Match not found in bank number:0
+Match found in bank number:1
+Match not found in bank number:2
+Match found in bank number:3
+Match found in bank number:4
+Match found in bank number:5
+Match found in bank number:6
+Match found in bank number:7
+
+The false postive rate is 62
+The false negative rate is 0
+100 82 66 34 45 57 30 123 95 86 48 43 76 96 61 50 97 78 36 91 118 105 49 11 116 90 120 67 28 94 115 84 
+bloom_filter is:ffdff7ff
+bloom_filter is:ffffbfff
+bloom_filter is:feffffee
+bloom_filter is:ffbffeff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+Value to match is:61
+
+100 82 66 34 45 57 30 123 95 86 48 43 76 96 61 50 97 
+ Index of the value is:16
+Value at index is:97
+Bank number is:4
+hash_output of integer is:3486053041
+
+
+Match found in bank number:0
+Match not found in bank number:1
+Match not found in bank number:2
+Match not found in bank number:3
+Match found in bank number:4
+Match found in bank number:5
+Match found in bank number:6
+Match found in bank number:7
+
+The false postive rate is 50
+The false negative rate is 0
+102 61 20 70 113 103 118 95 92 56 52 77 59 110 60 79 116 38 32 15 69 96 108 109 124 34 78 2 13 30 127 17 
+bloom_filter is:ffffffff
+bloom_filter is:7efcfffd
+bloom_filter is:ffffdfff
+bloom_filter is:fdffbfff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+Value to match is:4e
+
+102 61 20 70 113 103 118 95 92 56 52 77 59 110 60 79 116 38 32 15 69 96 108 109 124 34 78 
+ Index of the value is:26
+Value at index is:78
+Bank number is:6
+hash_output of integer is:400662791
+
+
+Match found in bank number:0
+Match not found in bank number:1
+Match not found in bank number:2
+Match not found in bank number:3
+Match found in bank number:4
+Match found in bank number:5
+Match found in bank number:6
+Match found in bank number:7
+
+The false postive rate is 50
+The false negative rate is 0
+113 117 37 33 19 39 8 98 55 83 45 82 91 124 106 89 53 27 48 104 114 52 76 23 122 120 15 0 16 11 54 73 
+bloom_filter is:ffffb7ff
+bloom_filter is:bffbffff
+bloom_filter is:ffffffff
+bloom_filter is:fffeffef
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+Value to match is:36
+
+113 117 37 33 19 39 8 98 55 83 45 82 91 124 106 89 53 27 48 104 114 52 76 23 122 120 15 0 16 11 54 
+ Index of the value is:30
+Value at index is:54
+Bank number is:7
+hash_output of integer is:2257219336
+
+
+Match not found in bank number:0
+Match found in bank number:1
+Match found in bank number:2
+Match found in bank number:3
+Match found in bank number:4
+Match found in bank number:5
+Match found in bank number:6
+Match found in bank number:7
+
+The false postive rate is 75
+The false negative rate is 0
+39 63 107 56 2 24 66 71 109 96 11 12 0 17 27 43 76 21 6 58 48 62 97 84 68 16 72 126 120 47 125 105 
+bloom_filter is:fdffffff
+bloom_filter is:effffd7f
+bloom_filter is:ffffff7d
+bloom_filter is:fdffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+Value to match is:7d
+
+39 63 107 56 2 24 66 71 109 96 11 12 0 17 27 43 76 21 6 58 48 62 97 84 68 16 72 126 120 47 125 
+ Index of the value is:30
+Value at index is:125
+Bank number is:7
+hash_output of integer is:2873041123
+
+
+Match not found in bank number:0
+Match not found in bank number:1
+Match not found in bank number:2
+Match not found in bank number:3
+Match found in bank number:4
+Match found in bank number:5
+Match found in bank number:6
+Match found in bank number:7
+
+The false postive rate is 37
+The false negative rate is 0
+112 76 108 6 64 1 0 81 29 51 111 96 67 74 24 88 90 27 59 4 117 101 113 91 19 68 3 60 66 37 50 32 
+bloom_filter is:ffffffff
+bloom_filter is:fffeffff
+bloom_filter is:afff6fff
+bloom_filter is:fff7fff9
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+Value to match is:18
+
+112 76 108 6 64 1 0 81 29 51 111 96 67 74 24 
+ Index of the value is:14
+Value at index is:24
+Bank number is:3
+hash_output of integer is:2283146913
+
+
+Match found in bank number:0
+Match found in bank number:1
+Match found in bank number:2
+Match found in bank number:3
+Match found in bank number:4
+Match found in bank number:5
+Match found in bank number:6
+Match found in bank number:7
+
+The false postive rate is 87
+The false negative rate is 0
+74 76 47 94 44 121 22 88 35 3 84 0 71 62 83 93 123 127 49 96 119 6 55 29 42 31 10 126 60 103 32 63 
+bloom_filter is:fffbdfff
+bloom_filter is:fef7efff
+bloom_filter is:fcfedfff
+bloom_filter is:fffffbff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+Value to match is:5e
+
+74 76 47 94 
+ Index of the value is:3
+Value at index is:94
+Bank number is:0
+hash_output of integer is:1320878261
+
+
+Match found in bank number:0
+Match not found in bank number:1
+Match not found in bank number:2
+Match found in bank number:3
+Match found in bank number:4
+Match found in bank number:5
+Match found in bank number:6
+Match found in bank number:7
+
+The false postive rate is 62
+The false negative rate is 0
+87 127 26 38 29 106 2 85 68 27 95 83 96 84 109 28 75 64 17 126 98 79 6 90 48 72 122 88 34 32 112 120 
+bloom_filter is:fdffefff
+bloom_filter is:fff57fdf
+bloom_filter is:ffefffff
+bloom_filter is:d9ffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+Value to match is:2
+
+87 127 26 38 29 106 2 
+ Index of the value is:6
+Value at index is:2
+Bank number is:1
+hash_output of integer is:4127540631
+
+
+Match not found in bank number:0
+Match found in bank number:1
+Match found in bank number:2
+Match not found in bank number:3
+Match found in bank number:4
+Match found in bank number:5
+Match found in bank number:6
+Match found in bank number:7
+
+The false postive rate is 62
+The false negative rate is 0
+19 37 92 112 71 90 55 41 127 108 100 74 62 113 86 18 123 103 9 1 97 14 78 75 114 105 117 88 121 120 59 67 
+bloom_filter is:ffffffff
+bloom_filter is:fbfefbff
+bloom_filter is:fdffffff
+bloom_filter is:fffff3ff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+Value to match is:6c
+
+19 37 92 112 71 90 55 41 127 108 
+ Index of the value is:9
+Value at index is:108
+Bank number is:2
+hash_output of integer is:3249777883
+
+
+Match found in bank number:0
+Match not found in bank number:1
+Match found in bank number:2
+Match not found in bank number:3
+Match found in bank number:4
+Match found in bank number:5
+Match found in bank number:6
+Match found in bank number:7
+
+The false postive rate is 62
+The false negative rate is 0
+101 118 94 119 42 14 88 67 53 105 106 79 107 76 24 64 36 62 84 56 96 90 13 115 39 91 85 22 100 60 83 112 
+bloom_filter is:dffffffe
+bloom_filter is:bfdefffd
+bloom_filter is:bbfbfb7f
+bloom_filter is:fffffffe
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+Value to match is:43
+
+101 118 94 119 42 14 88 67 
+ Index of the value is:7
+Value at index is:67
+Bank number is:1
+hash_output of integer is:2367346561
+
+
+Match not found in bank number:0
+Match found in bank number:1
+Match not found in bank number:2
+Match not found in bank number:3
+Match found in bank number:4
+Match found in bank number:5
+Match found in bank number:6
+Match found in bank number:7
+
+The false postive rate is 50
+The false negative rate is 0
+22 83 109 116 93 120 115 2 40 62 122 27 127 45 94 12 89 25 53 66 31 70 33 98 16 47 77 14 79 114 51 88 
+bloom_filter is:fbdbffff
+bloom_filter is:ffefddbd
+bloom_filter is:ff7fbeff
+bloom_filter is:7ff7fefb
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+Value to match is:2d
+
+22 83 109 116 93 120 115 2 40 62 122 27 127 45 
+ Index of the value is:13
+Value at index is:45
+Bank number is:3
+hash_output of integer is:1703044305
+
+
+Match not found in bank number:0
+Match not found in bank number:1
+Match not found in bank number:2
+Match found in bank number:3
+Match found in bank number:4
+Match found in bank number:5
+Match found in bank number:6
+Match found in bank number:7
+
+The false postive rate is 50
+The false negative rate is 0
+14 101 126 118 30 80 1 28 32 42 11 96 52 97 54 68 21 2 67 10 58 66 108 63 22 102 114 4 93 34 44 61 
+bloom_filter is:ffffffff
+bloom_filter is:7ffffc7f
+bloom_filter is:7f7ffbff
+bloom_filter is:bffeffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+Value to match is:1
+
+14 101 126 118 30 80 1 
+ Index of the value is:6
+Value at index is:1
+Bank number is:1
+hash_output of integer is:702238837
+
+
+Match found in bank number:0
+Match found in bank number:1
+Match not found in bank number:2
+Match not found in bank number:3
+Match found in bank number:4
+Match found in bank number:5
+Match found in bank number:6
+Match found in bank number:7
+
+The false postive rate is 62
+The false negative rate is 0
+47 16 79 108 61 127 53 96 118 112 13 4 114 0 123 74 111 25 90 116 28 71 89 106 22 72 37 60 10 67 45 48 
+bloom_filter is:dfffffff
+bloom_filter is:deffdfff
+bloom_filter is:ffffffe7
+bloom_filter is:deffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+Value to match is:5a
+
+47 16 79 108 61 127 53 96 118 112 13 4 114 0 123 74 111 25 90 
+ Index of the value is:18
+Value at index is:90
+Bank number is:4
+hash_output of integer is:3737048819
+
+
+Match found in bank number:0
+Match found in bank number:1
+Match not found in bank number:2
+Match found in bank number:3
+Match found in bank number:4
+Match found in bank number:5
+Match found in bank number:6
+Match found in bank number:7
+
+The false postive rate is 75
+The false negative rate is 0
+19 98 77 26 52 104 124 118 66 15 90 22 37 85 4 71 28 20 113 114 74 55 126 38 120 27 24 101 105 110 64 75 
+bloom_filter is:ffdfffff
+bloom_filter is:ffffffff
+bloom_filter is:fffddfff
+bloom_filter is:5fffeffd
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+Value to match is:34
+
+19 98 77 26 52 
+ Index of the value is:4
+Value at index is:52
+Bank number is:1
+hash_output of integer is:1172584170
+
+
+Match not found in bank number:0
+Match found in bank number:1
+Match not found in bank number:2
+Match not found in bank number:3
+Match found in bank number:4
+Match found in bank number:5
+Match found in bank number:6
+Match found in bank number:7
+
+The false postive rate is 50
+The false negative rate is 0
+102 96 100 33 25 7 110 103 36 92 32 127 95 57 31 40 11 14 45 12 3 48 124 114 70 15 6 65 10 125 122 2 
+bloom_filter is:ffffffff
+bloom_filter is:ffffffdf
+bloom_filter is:ffffffdf
+bloom_filter is:fff9bfff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+Value to match is:f
+
+102 96 100 33 25 7 110 103 36 92 32 127 95 57 31 40 11 14 45 12 3 48 124 114 70 15 
+ Index of the value is:25
+Value at index is:15
+Bank number is:6
+hash_output of integer is:3871867317
+
+
+Match found in bank number:0
+Match not found in bank number:1
+Match not found in bank number:2
+Match found in bank number:3
+Match found in bank number:4
+Match found in bank number:5
+Match found in bank number:6
+Match found in bank number:7
+
+The false postive rate is 62
+The false negative rate is 0
+2 60 116 76 57 27 90 5 125 38 3 30 97 106 78 123 79 77 107 31 61 112 100 121 4 86 127 96 44 103 124 45 
+bloom_filter is:ffdff7fe
+bloom_filter is:ffff7fff
+bloom_filter is:7fffffff
+bloom_filter is:fdfdffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+Value to match is:6b
+
+2 60 116 76 57 27 90 5 125 38 3 30 97 106 78 123 79 77 107 
+ Index of the value is:18
+Value at index is:107
+Bank number is:4
+hash_output of integer is:1204160468
+
+
+Match found in bank number:0
+Match found in bank number:1
+Match found in bank number:2
+Match not found in bank number:3
+Match found in bank number:4
+Match found in bank number:5
+Match found in bank number:6
+Match found in bank number:7
+
+The false postive rate is 75
+The false negative rate is 0
+53 23 75 47 76 107 36 98 4 43 119 80 68 22 3 57 123 96 113 25 99 127 7 112 37 6 50 32 27 90 34 20 
+bloom_filter is:fdffffff
+bloom_filter is:fefdffff
+bloom_filter is:ffffffff
+bloom_filter is:7ffffffd
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+Value to match is:1b
+
+53 23 75 47 76 107 36 98 4 43 119 80 68 22 3 57 123 96 113 25 99 127 7 112 37 6 50 32 27 
+ Index of the value is:28
+Value at index is:27
+Bank number is:7
+hash_output of integer is:1394637131
+
+
+Match not found in bank number:0
+Match not found in bank number:1
+Match found in bank number:2
+Match not found in bank number:3
+Match found in bank number:4
+Match found in bank number:5
+Match found in bank number:6
+Match found in bank number:7
+
+The false postive rate is 50
+The false negative rate is 0
+36 78 40 0 50 81 73 74 88 56 72 68 118 39 33 108 63 102 46 92 51 115 122 70 123 79 65 7 105 16 67 114 
+bloom_filter is:ffffffef
+bloom_filter is:fffff6ff
+bloom_filter is:fffd7ffb
+bloom_filter is:dfffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+Value to match is:41
+
+36 78 40 0 50 81 73 74 88 56 72 68 118 39 33 108 63 102 46 92 51 115 122 70 123 79 65 
+ Index of the value is:26
+Value at index is:65
+Bank number is:6
+hash_output of integer is:136271116
+
+
+Match found in bank number:0
+Match not found in bank number:1
+Match not found in bank number:2
+Match found in bank number:3
+Match found in bank number:4
+Match found in bank number:5
+Match found in bank number:6
+Match found in bank number:7
+
+The false postive rate is 62
+The false negative rate is 0
+114 93 101 113 85 67 11 38 86 41 125 31 21 124 82 100 5 105 104 111 79 34 60 65 81 64 15 87 91 75 48 62 
+bloom_filter is:ffffcffb
+bloom_filter is:ffbdbfed
+bloom_filter is:7ffffdff
+bloom_filter is:fffff7ff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+Value to match is:f
+
+114 93 101 113 85 67 11 38 86 41 125 31 21 124 82 100 5 105 104 111 79 34 60 65 81 64 15 
+ Index of the value is:26
+Value at index is:15
+Bank number is:6
+hash_output of integer is:3052393739
+
+
+Match not found in bank number:0
+Match not found in bank number:1
+Match not found in bank number:2
+Match found in bank number:3
+Match found in bank number:4
+Match found in bank number:5
+Match found in bank number:6
+Match found in bank number:7
+
+The false postive rate is 50
+The false negative rate is 0
+16 106 91 107 85 13 2 48 8 81 45 3 98 80 71 32 50 34 35 54 21 40 66 23 1 12 69 113 103 77 17 41 
+bloom_filter is:fffffff7
+bloom_filter is:fffffb3f
+bloom_filter is:ebffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+Value to match is:29
+
+16 106 91 107 85 13 2 48 8 81 45 3 98 80 71 32 50 34 35 54 21 40 66 23 1 12 69 113 103 77 17 41 
+ Index of the value is:31
+Value at index is:41
+Bank number is:7
+hash_output of integer is:851311121
+
+
+Match found in bank number:0
+Match found in bank number:1
+Match not found in bank number:2
+Match found in bank number:3
+Match found in bank number:4
+Match found in bank number:5
+Match found in bank number:6
+Match found in bank number:7
+
+The false postive rate is 75
+The false negative rate is 0
+8 84 40 62 53 37 103 102 2 92 23 43 109 123 95 10 48 126 105 44 17 101 85 5 39 7 72 104 100 121 93 33 
+bloom_filter is:ffffffff
+bloom_filter is:fbffdfff
+bloom_filter is:fcf5afff
+bloom_filter is:df3fffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+Value to match is:7b
+
+8 84 40 62 53 37 103 102 2 92 23 43 109 123 
+ Index of the value is:13
+Value at index is:123
+Bank number is:3
+hash_output of integer is:3439769152
+
+
+Match found in bank number:0
+Match not found in bank number:1
+Match not found in bank number:2
+Match found in bank number:3
+Match found in bank number:4
+Match found in bank number:5
+Match found in bank number:6
+Match found in bank number:7
+
+The false postive rate is 62
+The false negative rate is 0
+2 14 114 1 73 91 65 109 118 10 96 46 52 58 41 6 84 79 95 80 99 57 119 38 111 43 27 92 63 70 51 9 
+bloom_filter is:ffff7fff
+bloom_filter is:dfdbf7bd
+bloom_filter is:deedfff7
+bloom_filter is:bf7fff9f
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+Value to match is:2e
+
+2 14 114 1 73 91 65 109 118 10 96 46 
+ Index of the value is:11
+Value at index is:46
+Bank number is:2
+hash_output of integer is:1319752613
+
+
+Match not found in bank number:0
+Match not found in bank number:1
+Match found in bank number:2
+Match not found in bank number:3
+Match found in bank number:4
+Match found in bank number:5
+Match found in bank number:6
+Match found in bank number:7
+
+The false postive rate is 50
+The false negative rate is 0
+62 72 89 16 94 33 13 7 83 78 66 103 99 37 120 19 92 8 115 85 1 125 21 112 10 86 74 123 77 93 3 91 
+bloom_filter is:dfffffff
+bloom_filter is:dfffffdf
+bloom_filter is:fffffbff
+bloom_filter is:fdffefff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+Value to match is:25
+
+62 72 89 16 94 33 13 7 83 78 66 103 99 37 
+ Index of the value is:13
+Value at index is:37
+Bank number is:3
+hash_output of integer is:2015784223
+
+
+Match not found in bank number:0
+Match not found in bank number:1
+Match not found in bank number:2
+Match found in bank number:3
+Match found in bank number:4
+Match found in bank number:5
+Match found in bank number:6
+Match found in bank number:7
+
+The false postive rate is 50
+The false negative rate is 0
+91 99 111 70 107 74 118 81 85 42 71 58 37 76 79 15 22 110 41 18 33 20 43 56 93 88 65 106 60 4 125 25 
+bloom_filter is:fbffffff
+bloom_filter is:fffffdff
+bloom_filter is:ffff7fdf
+bloom_filter is:f7ffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+Value to match is:51
+
+91 99 111 70 107 74 118 81 
+ Index of the value is:7
+Value at index is:81
+Bank number is:1
+hash_output of integer is:2315417722
+
+
+Match found in bank number:0
+Match found in bank number:1
+Match not found in bank number:2
+Match not found in bank number:3
+Match found in bank number:4
+Match found in bank number:5
+Match found in bank number:6
+Match found in bank number:7
+
+The false postive rate is 62
+The false negative rate is 0
+83 111 9 36 108 58 66 40 1 93 126 47 14 69 17 38 43 124 57 24 31 59 54 63 16 122 0 32 29 74 18 81 
+bloom_filter is:fefbffff
+bloom_filter is:ffff7fbf
+bloom_filter is:ffffefff
+bloom_filter is:bffffffe
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+Value to match is:2f
+
+83 111 9 36 108 58 66 40 1 93 126 47 
+ Index of the value is:11
+Value at index is:47
+Bank number is:2
+hash_output of integer is:1970154828
+
+
+Match not found in bank number:0
+Match not found in bank number:1
+Match found in bank number:2
+Match not found in bank number:3
+Match found in bank number:4
+Match found in bank number:5
+Match found in bank number:6
+Match found in bank number:7
+
+The false postive rate is 50
+The false negative rate is 0
+119 52 69 34 19 96 14 45 83 50 62 89 64 49 43 3 74 53 109 80 127 59 113 22 9 32 0 35 6 2 23 71 
+bloom_filter is:ffffdff7
+bloom_filter is:ffffffff
+bloom_filter is:6fffffff
+bloom_filter is:fffffffe
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+bloom_filter is:ffffffff
+Value to match is:4a
+
+119 52 69 34 19 96 14 45 83 50 62 89 64 49 43 3 74 
+ Index of the value is:16
+Value at index is:74
+Bank number is:4
+hash_output of integer is:4227725843
+
+
+Match not found in bank number:0
+Match found in bank number:1
+Match not found in bank number:2
+Match not found in bank number:3
+Match found in bank number:4
+Match found in bank number:5
+Match found in bank number:6
+Match found in bank number:7
+
+The false postive rate is 50
+The false negative rate is 0
+Positive rate for iteration 0 is:50
+Positive rate for iteration 1 is:62
+Positive rate for iteration 2 is:62
+Positive rate for iteration 3 is:50
+Positive rate for iteration 4 is:75
+Positive rate for iteration 5 is:62
+Positive rate for iteration 6 is:62
+Positive rate for iteration 7 is:50
+Positive rate for iteration 8 is:50
+Positive rate for iteration 9 is:75
+Positive rate for iteration 10 is:37
+Positive rate for iteration 11 is:87
+Positive rate for iteration 12 is:62
+Positive rate for iteration 13 is:62
+Positive rate for iteration 14 is:62
+Positive rate for iteration 15 is:50
+Positive rate for iteration 16 is:50
+Positive rate for iteration 17 is:62
+Positive rate for iteration 18 is:75
+Positive rate for iteration 19 is:50
+Positive rate for iteration 20 is:62
+Positive rate for iteration 21 is:75
+Positive rate for iteration 22 is:50
+Positive rate for iteration 23 is:62
+Positive rate for iteration 24 is:50
+Positive rate for iteration 25 is:75
+Positive rate for iteration 26 is:62
+Positive rate for iteration 27 is:50
+Positive rate for iteration 28 is:50
+Positive rate for iteration 29 is:62
+Positive rate for iteration 30 is:50
+Positive rate for iteration 31 is:50
