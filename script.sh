@@ -2,5 +2,6 @@ make -C ./build #C is there to tell in which make file the make command should b
 echo "Running the executable"
 echo "delete the previous txt file"
 rm file.txt
-./build/RSCA_executable >> file.txt
+# Of the form CAM SIZE, Number of Sub CAMS and Range of LNREGs
+./build/RSCA_executable 64 8 128 >> file.txt
 echo "Saved in file.txt in the parent folder"
