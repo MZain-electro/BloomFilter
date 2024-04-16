@@ -1,0 +1,59 @@
+10 78 62 127 35 93 117 37 97 91 8 102 101 34 30 14 3 82 94 88 104 44 95 24 109 122 75 18 72 32 106 64 
+hash_output_arr is:cd654dbd
+hash_output_arr is:19808cb8
+hash_output_arr is:c59a335f
+hash_output_arr is:731ce89b
+hash_output_arr is:971b0b1a
+hash_output_arr is:dc57f061
+hash_output_arr is:a3f381d8
+hash_output_arr is:f73e8e23
+hash_output_arr is:56c1cbd1
+hash_output_arr is:380a3578
+hash_output_arr is:935f44f1
+hash_output_arr is:f53c79e4
+hash_output_arr is:74c3e704
+hash_output_arr is:8d09b903
+hash_output_arr is:a5e389a
+hash_output_arr is:4af7081b
+hash_output_arr is:32850971
+hash_output_arr is:d067de8f
+hash_output_arr is:4b36183d
+hash_output_arr is:90b62f7
+hash_output_arr is:761d6f1a
+hash_output_arr is:9bcaf2f6
+hash_output_arr is:5249e0d3
+hash_output_arr is:288f6c1e
+hash_output_arr is:c08d56bc
+hash_output_arr is:32ded4c1
+hash_output_arr is:5767bba0
+hash_output_arr is:fb070331
+hash_output_arr is:7ccba4ad
+hash_output_arr is:dbd7bedc
+hash_output_arr is:f05762a8
+hash_output_arr is:b8bd099f
+bloom_filter is:ffffffff
+bloom_filter is:fffffffb
+bloom_filter is:fffffffd
+bloom_filter is:ffffff9f
+bloom_filter is:fbffffff
+bloom_filter is:ffdfffff
+bloom_filter is:fffffffd
+bloom_filter is:ffffffff
+10 78 62 127 35 93 117 37 97 91 8 102 101 34 30 14 3 82 94 88 104 44 95 24 109 122 75 18 72 32 106 64 
+Value to match is:106
+
+10 78 62 127 35 93 117 37 97 91 8 102 101 34 30 14 3 82 94 88 104 44 95 24 109 122 75 18 72 32 106 
+ Index of the value is:30
+Value at index is:106
+Bank number is:7
+hash_output of integer is:4032258728
+
+
+Match found in bank number:0
+Match found in bank number:1
+Match found in bank number:2
+Match not found in bank number:3
+Match found in bank number:4
+Match found in bank number:5
+Match found in bank number:6
+Match found in bank number:7

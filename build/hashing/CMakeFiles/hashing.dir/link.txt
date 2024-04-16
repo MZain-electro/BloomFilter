@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhashing.a CMakeFiles/hashing.dir/crc32.cpp.o CMakeFiles/hashing.dir/digest.cpp.o CMakeFiles/hashing.dir/md5.cpp.o CMakeFiles/hashing.dir/sha1.cpp.o CMakeFiles/hashing.dir/sha256.cpp.o CMakeFiles/hashing.dir/sha3.cpp.o CMakeFiles/hashing.dir/keccak.cpp.o
+/usr/bin/ranlib libhashing.a
