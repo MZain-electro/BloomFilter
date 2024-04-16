@@ -1,12 +1,12 @@
-Configuration is CAM_SIZE:32 division_of_cam:8 range_of_CAM:64
+Configuration is CAM_SIZE:64 division_of_cam:8 range_of_CAM:128
 
- mean 58.3438
-Configuration is CAM_SIZE:32 division_of_cam:8 range_of_CAM:128
+ mean 83.2188
+Configuration is CAM_SIZE:64 division_of_cam:8 range_of_CAM:256
 
- mean 59.1562
-Configuration is CAM_SIZE:32 division_of_cam:8 range_of_CAM:256
+ mean 84.7188
+Configuration is CAM_SIZE:64 division_of_cam:8 range_of_CAM:512
 
- mean 60.7188
-Configuration is CAM_SIZE:32 division_of_cam:8 range_of_CAM:512
+ mean 86.25
+Configuration is CAM_SIZE:64 division_of_cam:8 range_of_CAM:1024
 
- mean 59.5312
+ mean 82.4688
